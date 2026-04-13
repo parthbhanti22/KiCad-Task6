@@ -104,6 +104,6 @@ For a complete architectural overview, please refer to the **[Design Document](d
 
 ## 👨‍💻 Developer Info
 
-This plugin was developed as part of the **eSim Semester Long Internship Spring 2026 (Task 6)**. It demonstrates the powerful synergy between Python scripting and Electronic Design Automation.
+This plugin was developed as part of the **eSim Summer Fellowship 2026 (Task 6)**. It demonstrates the powerful synergy between Python scripting and Electronic Design Automation.
 
 **License**: MIT License
